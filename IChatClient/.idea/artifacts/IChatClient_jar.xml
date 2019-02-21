@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="IChatClient:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/IChatClient_jar</output-path>
+    <root id="archive" name="IChatClient.jar">
+      <element id="module-output" name="IChatClient" />
+    </root>
+  </artifact>
+</component>
